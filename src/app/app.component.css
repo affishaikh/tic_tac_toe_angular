@@ -1,0 +1,25 @@
+html,
+body {
+  margin: 0;
+}
+
+table,
+tr,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+.board {
+  width: 20%;
+  height: 20%;
+
+  margin-right: 2%; 
+}
+
+td {
+  font-size: 30px;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+}
